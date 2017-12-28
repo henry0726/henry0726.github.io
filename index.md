@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Henry Huang
 
 You can use the [editor on GitHub](https://github.com/henry0726/HomePage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
