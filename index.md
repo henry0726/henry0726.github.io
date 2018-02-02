@@ -20,6 +20,16 @@ C <img src="C language.sh.png" style="width:30px;height:15px;"/>
 
 PYTHON <img src="python-logo.png" style="width:30px;height:15px;"/>
 
+Here is a table
+
+Year | Award | Category
+-----|-------|--------
+Android | <img src="android-studio-logo.png" style="width:30px;height:15px;"/>  | Won Outstanding Lead Actor in a miniseries or a movie
+JAVA | <img src="JAVA.webp" style="width:30px;height:15px;"/> | Nominated for Best Leading Actor for Sherlock
+C | <img src="C language.sh.png" style="width:30px;height:15px;"/>
+ | Won Best Actor miniseries or television film
+PYTHON | <img src="python-logo.png" style="width:30px;height:15px;"/> | Won Best Actor miniseries or television film
+
 ## Publications
 
 > 1. W.T. Chu, W.H. Huang: Cultural difference and visual information on hotel rating prediction [Link](https://link.springer.com/article/10.1007/s11280-016-0404-2) [File](https://github.com/henry0726/henry0726.github.io/raw/master/World%20Wide%20Web%20Journal.pdf)
