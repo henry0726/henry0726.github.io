@@ -10,13 +10,19 @@ Hi! I am a software egineer.
 
 Now working at [VIA](https://www.viatech.com/en/) <img src="VIA_Corporate_logo.jpg" style="width:30px;height:15px;"/>
 
-## Research Interest
+## Featured Skills
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Android <img src="android-studio-logo.png" style="width:30px;height:15px;"/>
+
+JAVA <img src="JAVA.webp" style="width:30px;height:15px;"/>
+
+C <img src="C language.sh.png" style="width:30px;height:15px;"/>
+
+PYTHON <img src="python-logo.png" style="width:30px;height:15px;"/>
 
 ## Publications
 
-> 1. W.T. Chu, W.H. Huang: Cultural difference and visual information on hotel rating prediction [Link](https://link.springer.com/article/10.1007/s11280-016-0404-2) [File]()
+> 1. W.T. Chu, W.H. Huang: Cultural difference and visual information on hotel rating prediction [Link](https://link.springer.com/article/10.1007/s11280-016-0404-2) [File](https://github.com/henry0726/henry0726.github.io/raw/master/World%20Wide%20Web%20Journal.pdf)
 
 ## Typography
 
