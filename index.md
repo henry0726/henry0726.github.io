@@ -21,7 +21,7 @@ PYTHON | <img src="python-logo.png" style="width:150px;height:60px;"/> | Won Bes
 
 ## Publications
 
-> 1. W.T. Chu, W.H. Huang: Cultural difference and visual information on hotel rating prediction [Link](https://link.springer.com/article/10.1007/s11280-016-0404-2) [File](https://github.com/henry0726/henry0726.github.io/raw/master/World%20Wide%20Web%20Journal.pdf)
+> 1. W.-T. Chu, W.-H. Huang: Cultural difference and visual information on hotel rating prediction [Link](https://link.springer.com/article/10.1007/s11280-016-0404-2) [File](https://github.com/henry0726/henry0726.github.io/raw/master/World%20Wide%20Web%20Journal.pdf)
 
 ## Typography
 
