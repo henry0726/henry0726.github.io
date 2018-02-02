@@ -12,16 +12,6 @@ Now working at [VIA](https://www.viatech.com/en/) <img src="VIA_Corporate_logo.j
 
 ## Featured Skills
 
-Android <img src="android-studio-logo.png" style="width:30px;height:15px;"/>
-
-JAVA <img src="JAVA.webp" style="width:30px;height:15px;"/>
-
-C <img src="C language.sh.png" style="width:30px;height:15px;"/>
-
-PYTHON <img src="python-logo.png" style="width:30px;height:15px;"/>
-
-Here is a table
-
 Skill | Img | Briefly
 -----|-------|--------
 Android | <img src="android-studio-logo.png" style="width:50px;height:25px;"/>  | Won Outstanding Lead Actor in a miniseries or a movie
