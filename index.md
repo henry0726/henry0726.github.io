@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a software egineer.
 
-Now work at [VIA](https://www.viatech.com/en/) ![VIA logo](https://www.104.com.tw/upload1/custintroduce/L1_8/L2_6/8687078600020150916100302top.jpg)  
+Now work at [VIA](https://www.viatech.com/en/) ![VIA logo](https://github.com/henry0726/henry0726.github.io/blob/master/VIA_Corporate_logo.jpg)  
 
 ## Research Interest
 
