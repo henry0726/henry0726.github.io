@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a software egineer.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Now work at [VIA](https://www.viatech.com/en/) ![VIA logo](https://www.104.com.tw/upload1/custintroduce/L1_8/L2_6/8687078600020150916100302top.jpg)  
 
 ## Research Interest
 
