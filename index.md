@@ -15,8 +15,8 @@ Now working at [VIA](https://www.viatech.com/en/) <img src="VIA_Corporate_logo.j
 Skill | Img | Briefly
 -----|-------|--------
 Android | <img src="android-studio-logo.png" style="width:150px;height:75px;"/>  | Won Outstanding Lead Actor in a miniseries or a movie
-JAVA | <img src="JAVA.webp" style="width:150px;height:100px;"/> | Nominated for Best Leading Actor for Sherlock
-C | <img src="C language.sh.png" style="width:150px;height:150px;"/>| Won Best Actor miniseries or television film
+JAVA | <img src="JAVA.webp" style="width:50px;height:100px;"/> | Nominated for Best Leading Actor for Sherlock
+C | <img src="C language.sh.png" style="width:75px;height:75px;"/>| Won Best Actor miniseries or television film
 PYTHON | <img src="python-logo.png" style="width:150px;height:60px;"/> | Won Best Actor miniseries or television film
 
 ## Publications
