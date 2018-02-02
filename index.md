@@ -22,7 +22,7 @@ PYTHON <img src="python-logo.png" style="width:30px;height:15px;"/>
 
 Here is a table
 
-Year | Award | Category
+Skill | Img | Briefly
 -----|-------|--------
 Android | <img src="android-studio-logo.png" style="width:30px;height:15px;"/>  | Won Outstanding Lead Actor in a miniseries or a movie
 JAVA | <img src="JAVA.webp" style="width:30px;height:15px;"/> | Nominated for Best Leading Actor for Sherlock
