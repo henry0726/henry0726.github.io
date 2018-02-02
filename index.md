@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a software egineer.
 
-Now working at [VIA](https://www.viatech.com/en/) ![VIA logo](https://raw.githubusercontent.com/henry0726/henry0726.github.io/master/VIA_Corporate_logo.jpg | width=100)  
+Now working at [VIA](https://www.viatech.com/en/) ![VIA logo](https://raw.githubusercontent.com/henry0726/henry0726.github.io/master/VIA_Corporate_logo.jpg = 50x25)  
 
 ## Research Interest
 
