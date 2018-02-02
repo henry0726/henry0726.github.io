@@ -24,11 +24,10 @@ Here is a table
 
 Skill | Img | Briefly
 -----|-------|--------
-Android | <img src="android-studio-logo.png" style="width:30px;height:15px;"/>  | Won Outstanding Lead Actor in a miniseries or a movie
-JAVA | <img src="JAVA.webp" style="width:30px;height:15px;"/> | Nominated for Best Leading Actor for Sherlock
-C | <img src="C language.sh.png" style="width:30px;height:15px;"/>
- | Won Best Actor miniseries or television film
-PYTHON | <img src="python-logo.png" style="width:30px;height:15px;"/> | Won Best Actor miniseries or television film
+Android | <img src="android-studio-logo.png" style="width:50px;height:25px;"/>  | Won Outstanding Lead Actor in a miniseries or a movie
+JAVA | <img src="JAVA.webp" style="width:50px;height:25px;"/> | Nominated for Best Leading Actor for Sherlock
+C | <img src="C language.sh.png" style="width:50px;height:50px;"/>| Won Best Actor miniseries or television film
+PYTHON | <img src="python-logo.png" style="width:50px;height:25px;"/> | Won Best Actor miniseries or television film
 
 ## Publications
 
