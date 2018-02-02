@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
+1. W.T. Chu, W.H. Huang: Cultural difference and visual information on hotel rating prediction [Link](https://link.springer.com/article/10.1007/s11280-016-0404-2) [File]
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
 ## Typography
