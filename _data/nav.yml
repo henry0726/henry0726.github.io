@@ -1,8 +1,14 @@
-- name: "Contact"
-  link: "contact"
-
 - name: "Resume"
   link: "resume.pdf"
+  
+- name: "Portfolio"
+  link: "portfolio"
+
+- name: "Experience"
+  link: "experience"
+  
+- name: "Education"
+  link: "education"
 
 - name: "About"
   link: "/"
