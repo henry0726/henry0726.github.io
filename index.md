@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="Photo_Sticky.jpg">
 
-Hi! I am a software egineer.
+Hi! I am a software engineer.
 
 Now working at [VIA](https://www.viatech.com/en/) <img src="VIA_Corporate_logo.jpg" style="width:30px;height:15px;"/>
 
