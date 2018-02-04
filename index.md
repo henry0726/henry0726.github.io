@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="OwnSticky.jpg">
+<img class="profile-picture" src="OwnSticky.jpeg">
 
 Hi! I am a software engineer.
 
