@@ -2,25 +2,11 @@
 layout: default
 is_contact: true
 ---
+##### Sep. 2013 - Jan. 2016
+National Chung Cheng University (CCU)/ Chiayi, Taiwan
+Major: M.S. in Computer Science
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
+##### Sep. 2009 - Jun. 2013
+National Yunlin University of Science and Technology (YunTech)/ Yunlin, Taiwan
+Major: B.S. in Computer Science
 ---
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
