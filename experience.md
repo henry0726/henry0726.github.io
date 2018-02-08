@@ -9,7 +9,7 @@ Software Engineer / VIA Technologies, Inc.
 Company Website Project / CornerStone Application Technology 
 
 ###### Sep. 2010 - Mar. 2015
-Center / CSIE Basketball Team at Yuntech and CCU
+Center / Basketball Team of Department at Yuntech and CCU
 
 ---
 
