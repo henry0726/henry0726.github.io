@@ -15,7 +15,7 @@ Hi! I am a software engineer.
 Skill | Img | Briefly
 -----|-------|--------
 Android | <img src="android-studio-logo.png" style="width:150px;height:75px;"/>  | -
-C/C++ | <img src="C and C++.jpg" style="width:75px;height:75px;"/>| -
+C/C++ | <img src="C and C++.jpg" style="width:150px;height:75px;"/>| -
 PYTHON | <img src="python-logo.png" style="width:150px;height:60px;"/> | -
 
 ## Publications
