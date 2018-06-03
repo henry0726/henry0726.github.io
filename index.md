@@ -11,11 +11,11 @@ Current Software Engineer.
 
 ## Featured Skills
 
-Skill | Briefly
------|--------
-<img src="android-studio-logo.png" style="width:90px;height:45px;"/>| Develop SmartHome app include monitor, intercom by xmpp, lock control by bluetooth and DI/DO control room device. Another experience like detect NAT type of network app, work out app use SQLite and google map api.
-<img src="C and C++.jpg" style="width:90px;height:36px;"/>| Image Processing,
-<img src="python-logo.png" style="width:90px;height:36px;"/>| Develop web crawler to auto download hotel rating, photo and command from tripadvisor. Use these data to build a hotel database, it also use in my thesis.
+Skill | Briefly|
+-----|--------|
+<img src="android-studio-logo.png" style="width:90px;height:45px;"/>| Develop SmartHome app include monitor, intercom by xmpp, lock control by bluetooth and DI/DO control room device. Another experience like detect NAT type of network app, work out app use SQLite and google map api.|
+<img src="C and C++.jpg" style="width:90px;height:36px;"/>| Image Processing,|
+<img src="python-logo.png" style="width:90px;height:36px;"/>| Develop web crawler to auto download hotel rating, photo and command from tripadvisor. Use these data to build a hotel database, it also use in my thesis.|
 ## Publications
 
 > 1. W.-T. Chu, W.-H. Huang: Cultural difference and visual information on hotel rating prediction [Link](https://link.springer.com/article/10.1007/s11280-016-0404-2) [File](https://github.com/henry0726/henry0726.github.io/raw/master/World_Wide_Web_Journal.pdf)
