@@ -12,11 +12,11 @@ Hi! I am a software engineer.
 
 ## Featured Skills
 
-Skill | Img | Briefly
------|-------|--------
-Android <img src="android-studio-logo.png" style="width:60px;height:30px;"/>| | -
-C/C++ <img src="C and C++.jpg" style="width:60px;height:24px;"/>| | -
-PYTHON <img src="python-logo.png" style="width:60px;height:24px;"/>|  | -
+Skill | Briefly
+-----|--------
+Android <img src="android-studio-logo.png" style="width:60px;height:30px;"/>| This is test for the line length.
+C/C++ <img src="C and C++.jpg" style="width:60px;height:24px;"/>|This is test for the line length.This is test for the line length.This is test for the line length.
+PYTHON <img src="python-logo.png" style="width:60px;height:24px;"/>| This is test for the line length.This is test for the line length.
 
 ## Publications
 
