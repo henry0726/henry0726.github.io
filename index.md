@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="OwnSticky.jpeg" style="width:10%; height:10%;">
+<img class="profile-picture" src="OwnSticky.jpeg">
 
 Current Software Engineer.
 
