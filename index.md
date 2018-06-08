@@ -11,8 +11,8 @@ Current Software Engineer.
 
 ## Featured Skills
 
-Skill | Briefly|
------|--------|
+Skill | Briefly|-|
+-----|--------|-|
 <img src="android-studio-logo.png" style="width:90px;height:45px;"/>| Develop SmartHome app include monitor, intercom by xmpp, lock control by bluetooth and DI/DO control room device. Another experience like detect NAT type of network app, work out app use SQLite and google map api.|
 <img src="C and C++.jpg" style="width:90px;height:36px;"/>| Image Processing,|
 <img src="python-logo.png" style="width:90px;height:36px;"/>| Develop web crawler to auto download hotel rating, photo and command from tripadvisor. Use these data to build a hotel database, it also use in my thesis.|
