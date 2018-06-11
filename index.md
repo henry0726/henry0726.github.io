@@ -8,7 +8,7 @@ layout: default
 
 Current Software Engineer.
 
-
+=============
 ## Featured Skills
 
 Skill | Briefly
@@ -17,11 +17,13 @@ Skill | Briefly
 <img src="C and C++.jpg" style="width:90px;height:36px;"/>| Image Processing,
 <img src="python-logo.png" style="width:90px;height:36px;"/>| Develop web crawler to auto download hotel rating, photo and command from tripadvisor. Use these data to build a hotel database, it also use in my thesis.
 
+=============
 ## Publications
 
 > 1. W.-T. Chu, W.-H. Huang: Cultural difference and visual information on hotel rating prediction [Link](https://link.springer.com/article/10.1007/s11280-016-0404-2) [File](https://github.com/henry0726/henry0726.github.io/raw/master/World_Wide_Web_Journal.pdf)
 
 <a id="education" style="position: relative; top: 0px;"></a>
+=============
 ## Education 
 
 ##### Sep. 2013 - Jan. 2016
@@ -35,6 +37,7 @@ National Yunlin University of Science and Technology (YunTech) / Yunlin, Taiwan
 Major: B.S. in Computer Science
 
 <a id="experience" style="position: relative; top: 0px;"></a>
+=============
 ## Experience 
 
 ###### Mar. 2016 - now
