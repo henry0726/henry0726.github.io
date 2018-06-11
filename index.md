@@ -34,3 +34,12 @@ National Yunlin University of Science and Technology (YunTech) / Yunlin, Taiwan
 
 Major: B.S. in Computer Science
 <span>
+  
+## Experience 
+<span id="experience">
+###### Mar. 2016 - now
+Software Engineer / VIA Technologies, Inc.
+
+###### May. 2017 - Jul. 2017
+Company Website Project / CornerStone Application Technology 
+<span>
