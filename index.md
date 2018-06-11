@@ -22,8 +22,8 @@ Skill | Briefly
 
 > 1. W.-T. Chu, W.-H. Huang: Cultural difference and visual information on hotel rating prediction [Link](https://link.springer.com/article/10.1007/s11280-016-0404-2) [File](https://github.com/henry0726/henry0726.github.io/raw/master/World_Wide_Web_Journal.pdf)
 
-<a id="education" style="position: relative; top: 0px;"></a>
 =============
+<a id="education" style="position: relative; top: 0px;"></a>
 ## Education 
 
 ##### Sep. 2013 - Jan. 2016
@@ -36,8 +36,8 @@ National Yunlin University of Science and Technology (YunTech) / Yunlin, Taiwan
 
 Major: B.S. in Computer Science
 
-<a id="experience" style="position: relative; top: 0px;"></a>
 =============
+<a id="experience" style="position: relative; top: 0px;"></a>
 ## Experience 
 
 ###### Mar. 2016 - now
