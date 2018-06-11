@@ -46,3 +46,5 @@ Software Engineer / VIA Technologies, Inc.
 ###### May. 2017 - Jul. 2017
 Company Website Project / CornerStone Application Technology 
 
+=============
+
