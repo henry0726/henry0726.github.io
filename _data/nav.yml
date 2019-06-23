@@ -5,10 +5,10 @@
   link: "portfolio"
 
 - name: "Experience"
-  link: "/#experience"
+  URL: "henry0726.github.io/#experience"
   
 - name: "Education"
-  link: "/#educationn"
+  URL: "henry0726.github.io/#educationn"
 
 - name: "About"
   link: "/"
