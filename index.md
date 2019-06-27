@@ -6,7 +6,8 @@ layout: default
 
 <img class="profile-picture" src="OwnSticky.jpeg">
 
-Current Software Engineer.
+Current Software Engineer at VIA Tech. My main programming language is android, also have C/C++, python, php and Wordpress 
+experience. Data transfer, xmpp protocol, data transfer and UI laout are usually applied in my work.
 
 =============
 ## Featured Skills
@@ -40,7 +41,10 @@ Major: B.S. in Computer Science
 <a id="experience" style="position: relative; top: 0px;"></a>
 ## Experience 
 
-###### Mar. 2016 - now
+###### Mar. 2019 - now
+Senior Software Engineer / VIA Technologies, Inc.
+
+###### Mar. 2016 - Mar. 2019
 Software Engineer / VIA Technologies, Inc.
 
 ###### May. 2017 - Jul. 2017
