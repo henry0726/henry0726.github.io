@@ -14,7 +14,7 @@ Current Software Engineer.
 Skill | Briefly
 -----|--------
 <img src="android-studio-logo.png" style="width:90px;height:45px;"/>| Develop SmartHome app include monitor, intercom via xmpp, door lock control via bluetooth and DI/DO control room device. Another experience like detect NAT type of network app, work out app use SQLite and google map api.
-<img src="C and C++.jpg" style="width:90px;height:36px;"/>|Building a RTOS project recently, I implement XMPP connetion, timer and OTA fnction. In graduate school, practical computer vision projects in c++.
+<img src="C and C++.jpg" style="width:90px;height:36px;"/>|Building a RTOS project recently, I implement XMPP connetion, timer and OTA function. practical computer vision projects in graduate school.
 <img src="python-logo.png" style="width:90px;height:36px;"/>| Develop web crawler to auto download hotel rating, photo and command from tripadvisor. Use these data to build a hotel database, it also use in my thesis.
 
 =============
