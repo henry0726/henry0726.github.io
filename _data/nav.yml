@@ -5,10 +5,10 @@
   link: "portfolio"
 
 - name: "Experience"
-  link: "/HomePage#experience"
+  link: "/#experience"
   
 - name: "Education"
-  link: "/HomePage#education"
+  link: "/#education"
 
 - name: "About"
-  link: "HomePage"
+  link: "/"
