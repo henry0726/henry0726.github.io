@@ -2,15 +2,15 @@
 layout: default
 is_contact: true
 ---
-#WorldConnect
+<center># WorldConnect</center>
 <img src="VIA_WorldConnect.png" style="width:240px;height:160px;display:block; margin:auto;"/>
 
-##WordPrss, CSS, PHP and HTML.
+## WordPrss, CSS, PHP and HTML.
 
 ---
 
-#Corner-stone
+# Corner-stone
 <img src="corner-stone.png" style="width:180px;height:270px;display:block; margin:auto;"/>
 
-##Android,C/C++ on RTOS.
+## Android,C/C++ on RTOS.
 
