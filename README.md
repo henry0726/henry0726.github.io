@@ -8,7 +8,7 @@ If you have any question, feel free to contact me.
 
 -------------
 
-This resume template built for [jekyll](http://ankitsultana.com)
+This resume template built by [jekyll](http://ankitsultana.com)
 
 ### License
 
