@@ -10,7 +10,7 @@ is_contact: true
 
 <p align="center" style="font-weight:bolder;font-size:36px;"> Website HomePage - Corner-stone</p>
 <img src="corner-stone.png" style="width:240px;height:300px;display:block; margin:auto;"/>
-<p align="center" style="font-weight:bolder;font-size:28px;color:lightsalmon;">WordPrss, CSS, PHP and HTML.</p>
+<p align="center" style="font-weight:bolder;font-size:28px;color:lightsalmon;">WordPress, CSS, PHP and HTML.</p>
 
 ---
 
