@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 <p align="center" style="font-weight:bolder;font-size:36px;"> SmartHome - WorldConnect</p>
-<img src="VIA_WorldConnect.png" style="width:240px;height:160px;display:block; margin:auto;"/>
+<img src="WorldConnect.png" style="width:240px;height:160px;display:block; margin:auto;"/>
 <p align="center" style="font-weight:bolder;font-size:28px;color:forestgreen;">Android,C/C++ on RTOS.</p>
 
 ---
