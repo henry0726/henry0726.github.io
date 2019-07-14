@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="OwnSticky.jpeg">
 
 Current Software Engineer at VIA Tech. My main programming language is android, also have C/C++, python, php and Wordpress 
-experience. Data transfer, xmpp protocol, data transfer and UI layout are usually applied in my work.
+experience. Data transfer, xmpp protocol and UI layout are usually applied in my work.
 
 =============
 ## Featured Skills
