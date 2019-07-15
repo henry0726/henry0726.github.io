@@ -1,5 +1,5 @@
 - name: "Resume"
-  link: "#Resume"
+  link: "/HenryHuang_resume.pdf"
   
 - name: "Portfolio"
   link: "portfolio"
@@ -11,4 +11,4 @@
   link: "/#education"
 
 - name: "About"
-  link: "/HenryHuang_resume.pdf"
+  link: "/"
