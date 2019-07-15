@@ -26,7 +26,7 @@ Skill | Briefly
 =============
 ## Achievements
 
-Get **VIA Invention award** by “以Camera連動螢幕亮度” in 2018.
+>Get **VIA Invention award** by “以Camera連動螢幕亮度” in 2018.
 
 =============
 <a id="education" style="position: relative; top: 0px;"></a>
