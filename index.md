@@ -24,6 +24,11 @@ Skill | Briefly
 > 1. W.-T. Chu, **W.-H. Huang**: Cultural difference and visual information on hotel rating prediction [Link](https://link.springer.com/article/10.1007/s11280-016-0404-2) [File](https://github.com/henry0726/henry0726.github.io/raw/master/World_Wide_Web_Journal.pdf)
 
 =============
+## ACHIEVEMENTS
+
+> Get **VIA Invention award** by “以Camera連動螢幕亮度” in 2018.
+
+=============
 <a id="education" style="position: relative; top: 0px;"></a>
 ## Education 
 
