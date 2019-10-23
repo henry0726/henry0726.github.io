@@ -6,8 +6,9 @@ layout: default
 
 <img class="profile-picture" src="OwnSticky.jpeg">
 
-Current Software Engineer at VIA Tech. My main programming language is android, also have C/C++, python, php and Wordpress 
-experience. Data transfer, xmpp protocol and UI layout are usually applied in my work.
+Current Firmware Engineer at Phison. My main programming language is C/C++, also have android, python, php and Wordpress 
+experience. NAND flash and Logical analysis are usually applied in my work.
+Previous job is Software Engineer at VIA Tech. Experiment on data transfer, xmpp protocol and UI layout.
 
 =============
 ## Featured Skills
@@ -46,7 +47,10 @@ Major: B.S. in Computer Science
 <a id="experience" style="position: relative; top: 0px;"></a>
 ## Experience 
 
-###### Mar. 2019 - now
+###### Oct. 2019 - now
+Firmware Engineer / PHISON Electronics Corp.
+
+###### Mar. 2019 - Oct. 2019
 Senior Software Engineer / VIA Technologies, Inc.
 
 ###### Mar. 2016 - Mar. 2019
